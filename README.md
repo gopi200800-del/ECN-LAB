@@ -24,17 +24,17 @@
 
 **CIRCUIT DIAGRAM:**
 
-![exp 1 circuit diagram](https://github.com/user-attachments/assets/e7bd90d4-98bd-4b20-a1d1-4f3d40d39c7e)
+![WhatsApp Image 2026-04-06 at 1 09 45 PM](https://github.com/user-attachments/assets/70a83d0d-431e-41cb-905e-0931851185f8)
+
 
 **TABULATION:**
+<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/10ec9ce7-0fb3-4cee-b255-14fc069cf09e" />
 
-![exp 1tab new](https://github.com/user-attachments/assets/d3f60938-ccc5-498f-81a0-2da35fd4e773)
 
 **CALCULATION:**
 
-![exp 1calc 1 new](https://github.com/user-attachments/assets/012e0866-19e0-4c69-8219-6f0b0dc12482)
+![Uploading image.png…]()
 
-![exp 1 calc 2 new](https://github.com/user-attachments/assets/3867c5db-4a91-4339-9f45-c2e4ef2422c6)
 
 **PROCEDURE:**
 
