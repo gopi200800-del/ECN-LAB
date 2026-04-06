@@ -26,7 +26,10 @@
 ![WhatsApp Image 2026-04-06 at 1 09 45 PM](https://github.com/user-attachments/assets/a193ab79-043a-4c97-af09-4d3f9d67817d)
 
 TABULAR COLUMN
-![WhatsApp Image 2026-04-06 at 1 11 16 PM](https://github.com/user-attachments/assets/f6a917c6-5471-415b-ba59-6a16ff99ed87)
+<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/d8b82809-608d-4abe-8dc3-449c9032a80b" />
+
+CALCULATION
+<img width="1600" height="1528" alt="image" src="https://github.com/user-attachments/assets/3ea5e690-de23-44b0-a79e-87be30f0f1a1" />
 
  
 **PROCEDURE:**
