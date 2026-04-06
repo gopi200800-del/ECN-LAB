@@ -28,7 +28,7 @@
 TABULAR COLUMN
 ![WhatsApp Image 2026-04-06 at 1 11 16 PM](https://github.com/user-attachments/assets/f6a917c6-5471-415b-ba59-6a16ff99ed87)
 
-
+ 
 **PROCEDURE:**
 
  *1.Give connections as per the circuit diagram.*
