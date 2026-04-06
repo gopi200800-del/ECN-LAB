@@ -30,8 +30,9 @@ TABULAR COLUMN
 
 CALCULATION
 <img width="1600" height="1528" alt="image" src="https://github.com/user-attachments/assets/3ea5e690-de23-44b0-a79e-87be30f0f1a1" />
-TABULAR
-![Uploading image.png…]()
+MARK
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/1182c338-f8aa-4d47-98ce-2182ec1bf570" />
+
 
 **PROCEDURE:**
 
