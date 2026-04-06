@@ -30,8 +30,9 @@ TABULAR COLUMN
 
 CALCULATION
 <img width="1600" height="1528" alt="image" src="https://github.com/user-attachments/assets/3ea5e690-de23-44b0-a79e-87be30f0f1a1" />
+TABULAR
+![Uploading image.png…]()
 
- 
 **PROCEDURE:**
 
  *1.Give connections as per the circuit diagram.*
